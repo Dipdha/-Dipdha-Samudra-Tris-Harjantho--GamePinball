@@ -1,0 +1,240 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709295356406657, "dur":18235, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356424899, "dur":88, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356425021, "dur":453, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356427730, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709295356425502, "dur":2804, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356428308, "dur":186837, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356615146, "dur":196, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356615342, "dur":71, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356615599, "dur":1507, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709295356425608, "dur":2704, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709295356428314, "dur":4236, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709295356441705, "dur":595, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1709295356442307, "dur":543, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709295356442863, "dur":2798, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1709295356445664, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1709295356445839, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356445918, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356446439, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356446811, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356446983, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356447093, "dur":496, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356447590, "dur":411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356448002, "dur":458, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356448462, "dur":678, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709295356449229, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player4c9ff67c-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1709295356442305, "dur":7311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709295356449922, "dur":59, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709295356450171, "dur":159449, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709295356614244, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709295356614242, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709295356614407, "dur":682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1709295356425657, "dur":2667, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709295356428325, "dur":819, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709295356429145, "dur":3421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709295356432583, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709295356432569, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709295356439683, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709295356441746, "dur":6053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356447860, "dur":656, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356447859, "dur":658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356448536, "dur":3969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356452559, "dur":2226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356454849, "dur":2290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356457214, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356458956, "dur":2923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356462088, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356464263, "dur":3772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709295356468119, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1709295356471021, "dur":144115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709295356425652, "dur":2667, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709295356428320, "dur":792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709295356429112, "dur":3445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709295356432571, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709295356432560, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709295356439100, "dur":3623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709295356442811, "dur":4586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356447530, "dur":3736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356451300, "dur":2697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356454099, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356456451, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356458421, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356461251, "dur":2436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356463766, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709295356465877, "dur":5720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1709295356471618, "dur":143528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709295356425673, "dur":2655, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709295356428330, "dur":816, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709295356429146, "dur":3474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709295356432621, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709295356440698, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709295356442625, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356445522, "dur":894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356446550, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356449016, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356451665, "dur":2094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356453836, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356456135, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356457582, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356460395, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356462545, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356464492, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709295356466188, "dur":3155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709295356469378, "dur":3691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709295356473092, "dur":142056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709295356425696, "dur":2637, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709295356428335, "dur":823, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709295356429158, "dur":3405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709295356432575, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709295356432564, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709295356439299, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709295356441841, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356443438, "dur":3391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356446943, "dur":3681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356450728, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356453044, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356455198, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356457389, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356459823, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356462093, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356463890, "dur":1760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709295356465731, "dur":3766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1709295356469524, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1709295356471037, "dur":144092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709295356425728, "dur":2610, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709295356428340, "dur":864, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709295356429204, "dur":3357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709295356432562, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1709295356433414, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1709295356435177, "dur":919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709295356436198, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1709295356437164, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709295356438316, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709295356439446, "dur":10051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356449585, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356452052, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356453864, "dur":2478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356456435, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356458469, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356460803, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356462693, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709295356465093, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1709295356468383, "dur":2637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1709295356471043, "dur":144101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709295356425758, "dur":2584, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709295356428343, "dur":882, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709295356429226, "dur":3338, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709295356432565, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709295356440037, "dur":2492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709295356442635, "dur":3225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356445927, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356447024, "dur":4205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356451364, "dur":1955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356453383, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356455191, "dur":1951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356457214, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356458931, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356462464, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709295356465541, "dur":4778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709295356470337, "dur":144796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709295356425781, "dur":2565, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709295356428348, "dur":648, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709295356428996, "dur":3572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709295356432569, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709295356433512, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709295356435109, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709295356436136, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1709295356437130, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1709295356437323, "dur":909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1709295356438284, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356438279, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356438369, "dur":13113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356451561, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356453652, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356455668, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356457654, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356460405, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356462354, "dur":2960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709295356465389, "dur":4781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1709295356470198, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1709295356471827, "dur":143304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709295356425804, "dur":2547, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709295356428352, "dur":165, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709295356428518, "dur":4051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709295356432570, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1709295356439031, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1709295356441609, "dur":4469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356446156, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356451047, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356453094, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356455076, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356456809, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356458976, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356461931, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356463863, "dur":1672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709295356465601, "dur":8456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1709295356474076, "dur":141056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709295356425824, "dur":2529, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709295356428353, "dur":4205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709295356432576, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1709295356432564, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1709295356441100, "dur":1914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1709295356443118, "dur":2944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356446134, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356447583, "dur":351, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356447581, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356447950, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356451411, "dur":2367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356453856, "dur":2115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356456055, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356458311, "dur":2414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356460800, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709295356460854, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356462943, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709295356465225, "dur":2887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1709295356468173, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/level1" }}
+,{ "pid":12345, "tid":10, "ts":1709295356470438, "dur":144690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709295356425892, "dur":2465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709295356428357, "dur":4198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709295356433066, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1709295356434776, "dur":635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1709295356435560, "dur":627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1709295356436284, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1709295356437444, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356439259, "dur":4677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1709295356444009, "dur":2211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356446286, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356447642, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Dipdha Samudra Tris Harjantho - GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356447640, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356447750, "dur":3397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356451180, "dur":2130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356453479, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356455366, "dur":2207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356457643, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356460796, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356462630, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356464908, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356464907, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356464979, "dur":32129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709295356497176, "dur":117967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709295356425919, "dur":2443, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709295356428362, "dur":4198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709295356432560, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Unity File Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1709295356438462, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1709295356441756, "dur":1571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356443414, "dur":2636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356449327, "dur":148, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709295356446122, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356449554, "dur":2957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356452557, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356454656, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356456737, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356458736, "dur":2335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356461168, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356463649, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709295356465496, "dur":3558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1709295356469094, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Unity File Build/Dipdha Samudra Tris Harjantho - GamePinball_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1709295356471143, "dur":143991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709295356620253, "dur":1350, "ph":"X", "name": "ProfilerWriteOutput" }
+,
